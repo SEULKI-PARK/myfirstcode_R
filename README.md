@@ -1,2 +1,3 @@
 # myfirstcode_R
-myfirstcode_R
+
+This is my first project folder.
